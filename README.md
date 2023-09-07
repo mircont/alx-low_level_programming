@@ -7,7 +7,7 @@ Welcome to the C Programming Projects repository! This collection of C programmi
 - [Introduction]
 - [Projects]
 - [Getting Started]
-
+- [Resources]
 
 ## Introduction
 
@@ -31,3 +31,23 @@ To get started with a specific project, navigate to its directory by clicking th
 - `README.md`: Detailed information about the project, including its purpose, requirements, and instructions.
 - Source code files: The C source code for the project.
 - Any additional resources or files needed for the project.
+
+
+
+## Resources
+
+ --Programming in C - Jenny’s Lecture : https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S&ab_channel=Jenny%27sLecturesCSIT
+
+ --C Programming - Dr. Ehoneah Obed : https://www.youtube.com/watch?v=LM6IjCbtpZA&list=PLqEaji1b3wvRaudEAMvyt1dIClA_y6SLS&ab_channel=EhoneahObed
+ 
+ --CS50 2022 - Lecture 1 - C : https://www.youtube.com/watch?v=ywg7cW0Txs4&ab_channel=CS50
+
+ --C Programming Neso Academy : https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&ab_channel=NesoAcademy
+
+ --Jenny’s lecture Youtube Channel : https://www.youtube.com/@JennyslecturesCSIT
+ 
+ --Neso Academy YouTube Channel : https://www.youtube.com/@nesoacademy
+
+ --Dr. Ehoneah Obed YouTube Channel : https://www.youtube.com/@ehoneahobed
+
+ --Julien Barbier YouTube Channel : https://www.youtube.com/@0xJulien
