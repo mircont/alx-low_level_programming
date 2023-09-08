@@ -1,25 +1,32 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
-int main() {
-    int n;
+/**
+ * main - Entry point
+ *
+ * Description: print the value of n status:
+ *              greater than, is zero and is not less than 6.
+ *
+ * Return: Always O (Success)
+*/
 
-    // Initialize random seed
-    srand(time(0));
+int main(void)
+{
+	int n, digit;
 
-    // Generate a random number
-    n = rand() % 201 - 100; // Generates a number between -100 and 100
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
 
-    printf("Last digit of %d is %d and is ", n, abs(n % 10));
+	/*my code*/
+	digit = n % 10; /*gets last digit*/
 
-    if (abs(n % 10) > 5) {
-        printf("greater than 5\n");
-    } else if (abs(n % 10) == 0) {
-        printf("0\n");
-    } else {
-        printf("less than 6 and not 0\n");
-    }
+	if (digit > 5)
+		printf("Last digit of %i is %i and is greater than 5\n", n, digit);
+	else if (digit == 0)
+		printf("Last digit of %i is %i and is 0\n", n, digit);
+	else if (digit < 6 && digit != 0)
+		printf("Last digit of %i is %i and is less than 6 and not 0\n", n, digit);
 
-    return 0;
+	return (0);
 }
