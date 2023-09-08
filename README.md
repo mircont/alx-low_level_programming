@@ -23,7 +23,7 @@ Whether you're interested in low-level programming, data structures, algorithms,
 Description: This project focuses on automating various aspects of C programming tasks, including preprocessing, compilation, assembly code generation, and code execution. It is designed to assist developers and learners in working with C code more efficiently and adhering to coding standards.
 
 
-### 2. [Project ](0x01. C - Variables, if, else, while)
+### 2. [Project 2](0x01. C - Variables, if, else, while)
 
 This project contains a series of C programs that demonstrate various concepts and tasks related to C programming, including printing patterns, working with numbers, and using control structures. Each program is designed to accomplish a specific task and serves as a learning resource for C programming beginners.
 
