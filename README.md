@@ -20,7 +20,7 @@ Whether you're interested in low-level programming, data structures, algorithms,
 
 ### 1. [Project 1](0x00. C - Hello, World)
 
-Description: This project focuses on automating various aspects of C programming tasks, including preprocessing, compilation, assembly code generation, and code execution. It is designed to assist developers and learners in working with C code more efficiently and adhering to coding standards.
+This project focuses on automating various aspects of C programming tasks, including preprocessing, compilation, assembly code generation, and code execution. It is designed to assist developers and learners in working with C code more efficiently and adhering to coding standards.
 
 
 ### 2. [Project 2](0x01. C - Variables, if, else, while)
