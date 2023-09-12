@@ -2,7 +2,7 @@
 /**
  *print_times_table - Entry point
  *@n: times table integer
- *Explain: 'The World looks like a multiplication-table. Learn your times table '
+ *Explain: 'Learn your times table '
  */
 void print_times_table(int n)
 {
