@@ -4,12 +4,13 @@ This repository contains C programs that demonstrate the use of functions and ne
 
 ## General Concepts Covered
 
-- Nested loops and how to use them
+- Nested loops and how to use them 
 - Functions, their declaration, and definition
 - Function prototypes
-- Scope of variables
+- Scope of variable
 - GCC flags: `-Wall`, `-Werror`, `-pedantic`, `-Wextra`, `-std=gnu89`
 - Header files and the `#include` directive
+
 
 
 ## Tasks
