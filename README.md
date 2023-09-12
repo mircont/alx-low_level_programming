@@ -28,6 +28,11 @@ This project focuses on automating various aspects of C programming tasks, inclu
 This project contains a series of C programs that demonstrate various concepts and tasks related to C programming, including printing patterns, working with numbers, and using control structures. Each program is designed to accomplish a specific task and serves as a learning resource for C programming beginners.
 
 
+### 3. [Project 3](0x02. C - Functions, nested loops)
+
+This project is a collection of C programs that serve as a learning resource for individuals looking to understand and practice fundamental concepts in C programming, with a focus on functions and nested loops. These programs cover a wide range of tasks, from basic character printing to more complex mathematical operations, designed to help users develop their skills and gain confidence in C programming.
+
+
 ## Getting Started
 
 To get started with a specific project, navigate to its directory by clicking the project's name in the list above. Inside each project directory, you'll find the following:
