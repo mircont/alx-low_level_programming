@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *Jack_Bauer - Entry point
+ *jack_bauer - Entry point
  *Explain: 'Agent Jack Bauer longest day'
  */
 void jack_bauer(void)
