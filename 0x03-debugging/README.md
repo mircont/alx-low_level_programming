@@ -13,16 +13,6 @@ Upon completion of this project, you will be able to:
 - Interpret error messages accurately.
 
 
-## Requirements
-
-### General
-- Use one of the allowed text editors: vi, vim, or emacs.
-- Compile all your code files on Ubuntu 20.04 LTS using `gcc`, with the following options: `-Wall -Werror -Wextra -pedantic -std=gnu89`.
-- Ensure that all your code files end with a newline character.
-- Follow the Betty style guidelines for coding; your code will be checked using `betty-style.pl` and `betty-doc.pl`.
-- Include a `README.md` file at the root of the repository, providing a description of the repository and its contents.
-- Add a `README.md` file at the root of the project folder (i.e., 0x03-debugging), describing the project's purpose and objectives.
-
 ## Tasks
 
 ### Task 0: Multiple Mains
