@@ -33,6 +33,11 @@ This project contains a series of C programs that demonstrate various concepts a
 This project is a collection of C programs that serve as a learning resource for individuals looking to understand and practice fundamental concepts in C programming, with a focus on functions and nested loops. These programs cover a wide range of tasks, from basic character printing to more complex mathematical operations, designed to help users develop their skills and gain confidence in C programming.
 
 
+### 4. [Project 4](0x04. C - More functions, more nested loops)
+
+This project is a collection of C programs that cover various concepts related to functions and nested loops in the C programming language. It serves as a part of the ALX Software Engineering curriculum and is designed to reinforce and expand your knowledge of these fundamental programming constructs.
+
+
 ## Getting Started
 
 To get started with a specific project, navigate to its directory by clicking the project's name in the list above. Inside each project directory, you'll find the following:
