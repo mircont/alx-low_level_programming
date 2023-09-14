@@ -1,18 +1,15 @@
-#include "main.h"
 /**
- * _isdigit - writes the character c to stdout
- * @c: The character to check
- * Return: On success 1.
- * On error, 0 is returned.
- */
+ * _isdigit - checks if input is digit between 0 - 9
+ *
+ * @c: input
+ *
+ * Return: 1 if is digit, 0 if not
+*/
+
 int _isdigit(int c)
 {
 	if (c >= 48 && c <= 57)
-	{
 		return (1);
-	}
 	else
-	{
 		return (0);
-	}
 }
