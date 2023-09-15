@@ -87,7 +87,7 @@ Please note that each task has its own source code file and can be compiled and 
 
 ## Author
 
-This repository is maintained by [Your Name].
+This repository is maintained by [mircont].
 
 [GitHub Repository](https://github.com/mircont/alx-low_level_programming/0x02-functions_nested_loops)
 
