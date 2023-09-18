@@ -38,6 +38,10 @@ This project is a collection of C programs that serve as a learning resource for
 This project is a collection of C programs that cover various concepts related to functions and nested loops in the C programming language. It serves as a part of the ALX Software Engineering curriculum and is designed to reinforce and expand your knowledge of these fundamental programming constructs.
 
 
+### 5. [Project 5](0x05. C - Pointers, arrays and strings)
+
+This project is to gain expertise in pointers and their practical applications, allowing efficient memory manipulation. Learn to effectively store and process data using arrays through hands-on tasks. Discover the distinctions between pointers and arrays, guiding your selection of the right data structure. Master string manipulation techniques for working with textual data. Understand variable scope to manage variable visibility and lifetime.i
+
 ## Getting Started
 
 To get started with a specific project, navigate to its directory by clicking the project's name in the list above. Inside each project directory, you'll find the following:
@@ -48,20 +52,3 @@ To get started with a specific project, navigate to its directory by clicking th
 
 
 
-## Resources
-
- --Programming in C - Jenny’s Lecture : https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S&ab_channel=Jenny%27sLecturesCSIT
-
- --C Programming - Dr. Ehoneah Obed : https://www.youtube.com/watch?v=LM6IjCbtpZA&list=PLqEaji1b3wvRaudEAMvyt1dIClA_y6SLS&ab_channel=EhoneahObed
- 
- --CS50 2022 - Lecture 1 - C : https://www.youtube.com/watch?v=ywg7cW0Txs4&ab_channel=CS50
-
- --C Programming Neso Academy : https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&ab_channel=NesoAcademy
-
- --Jenny’s lecture Youtube Channel : https://www.youtube.com/@JennyslecturesCSIT
- 
- --Neso Academy YouTube Channel : https://www.youtube.com/@nesoacademy
-
- --Dr. Ehoneah Obed YouTube Channel : https://www.youtube.com/@ehoneahobed
-
- --Julien Barbier YouTube Channel : https://www.youtube.com/@0xJulien
