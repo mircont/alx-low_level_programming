@@ -42,6 +42,12 @@ This project is a collection of C programs that cover various concepts related t
 
 This project is to gain expertise in pointers and their practical applications, allowing efficient memory manipulation. Learn to effectively store and process data using arrays through hands-on tasks. Discover the distinctions between pointers and arrays, guiding your selection of the right data structure. Master string manipulation techniques for working with textual data. Understand variable scope to manage variable visibility and lifetime.i
 
+
+### 6. [Project 6](0x06. C - More pointers, arrays and strings)
+
+This project will expand your knowledge of pointers and their practical applications. Manipulate memory efficiently and effectively. Master data storage and processing using arrays through hands-on tasks. Understand the differences between pointers and arrays, enabling smart data structure choices. Delve into string intricacies, mastering techniques for text manipulation. Gain insight into variable scope, managing visibility and lifetime.
+
+
 ## Getting Started
 
 To get started with a specific project, navigate to its directory by clicking the project's name in the list above. Inside each project directory, you'll find the following:
