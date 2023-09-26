@@ -47,6 +47,11 @@ This project is to gain expertise in pointers and their practical applications, 
 
 This project will expand your knowledge of pointers and their practical applications. Manipulate memory efficiently and effectively. Master data storage and processing using arrays through hands-on tasks. Understand the differences between pointers and arrays, enabling smart data structure choices. Delve into string intricacies, mastering techniques for text manipulation. Gain insight into variable scope, managing visibility and lifetime.
 
+### 7. [Project 7](0x07. C - Even more pointers, arrays and strings)
+
+Project 0x07 - "Even more pointers, arrays, and strings" is a C programming project that delves deeper into fundamental concepts such as pointers, arrays, and strings. It covers advanced topics like pointers to pointers, multidimensional arrays, and the manipulation of strings in the C programming language. The project's tasks involve implementing functions that perform various operations on memory, strings, and matrices. It challenges developers to strengthen their understanding of low-level programming in C while adhering to coding standards and constraints.
+
+
 
 ## Getting Started
 
