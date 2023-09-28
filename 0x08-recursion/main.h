@@ -15,3 +15,4 @@ int is_palindrome(char *s);
 int mircont_palindrome(char *s, int i);
 
 #endif
+
