@@ -7,7 +7,7 @@ Welcome to the C Programming Projects repository! This collection of C programmi
 - [Introduction]
 - [Projects]
 - [Getting Started]
-- [Resources]
+
 
 ## Introduction
 
@@ -51,6 +51,9 @@ This project will expand your knowledge of pointers and their practical applicat
 
 Project 0x07 - "Even more pointers, arrays, and strings" is a C programming project that delves deeper into fundamental concepts such as pointers, arrays, and strings. It covers advanced topics like pointers to pointers, multidimensional arrays, and the manipulation of strings in the C programming language. The project's tasks involve implementing functions that perform various operations on memory, strings, and matrices. It challenges developers to strengthen their understanding of low-level programming in C while adhering to coding standards and constraints.
 
+### 8. [Project 8](0x08. C - Recursion)
+
+The "0x08. C - Recursion" project is a collection of C programs that explore the concept of recursion. Recursion is a powerful technique in computer programming where a function calls itself in order to solve a problem. This project demonstrates various use cases of recursion and provides solutions to common programming challenges using recursive algorithms.
 
 
 ## Getting Started
