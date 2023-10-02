@@ -58,7 +58,8 @@ The "0x08. C - Recursion" project is a collection of C programs that explore the
 
 ### 9. [Project 9](0x09. C - Static libraries)
 
-The "0x09. C - Static libraries" project is a programming project that focuses on the concept of static libraries in the C programming language. It is part of a larger curriculum in low-level programming and software development. The primary objectives of this project are to teach students about static libraries, how they work, how to create them, and how to use them in C programming. Additionally, it introduces students to various C functions that they need to implement or use in creating these static libraries.
+The "0x09. C - Static libraries" project is a programming project that focuses on the concept of static libraries in the C programming language. It is part of a larger curriculum in low-level programming and software development.
+The primary objectives of this project are to teach students about static libraries, how they work, how to create them, and how to use them in C programming. Additionally, it introduces students to various C functions that they need to implement or use in creating these static libraries.
 
 
 ## Getting Started
