@@ -56,6 +56,12 @@ Project 0x07 - "Even more pointers, arrays, and strings" is a C programming proj
 The "0x08. C - Recursion" project is a collection of C programs that explore the concept of recursion. Recursion is a powerful technique in computer programming where a function calls itself in order to solve a problem. This project demonstrates various use cases of recursion and provides solutions to common programming challenges using recursive algorithms.
 
 
+### 9. [Project 9](0x09. C - Static libraries)
+
+The "0x09. C - Static libraries" project is a programming project that focuses on the concept of static libraries in the C programming language. It is part of a larger curriculum in low-level programming and software development.
+The primary objectives of this project are to teach students about static libraries, how they work, how to create them, and how to use them in C programming. Additionally, it introduces students to various C functions that they need to implement or use in creating these static libraries.
+
+
 ## Getting Started
 
 To get started with a specific project, navigate to its directory by clicking the project's name in the list above. Inside each project directory, you'll find the following:
