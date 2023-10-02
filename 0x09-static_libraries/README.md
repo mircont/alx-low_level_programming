@@ -46,25 +46,47 @@ Creating a script called create_static_lib.sh that creates a static library call
 Here's a brief description of each file in this directory:
 
 0-isupper.c: Checks if a character is an uppercase letter.
+
 0-memset.c: Fills memory with a constant byte.
+
 0-strcat.c: Concatenates two strings.
+
 100-atoi.c: Converts a string to an integer.
+
 1-isdigit.c: Checks if a character is a digit.
+
 1-memcpy.c: Copies memory area.
+
 1-strncat.c: Concatenates two strings, using at most n bytes from src.
+
 2-strchr.c: Locates a character in a string.
+
 2-strlen.c: Returns the length of a string.
+
 2-strncpy.c: Copies a string, with a byte limit.
+
 3-islower.c: Checks if a character is a lowercase letter.
+
 3-puts.c: Prints a string to stdout.
+
 3-strcmp.c: Compares two strings.
+
 3-strspn.c: Gets the length of a prefix substring.
+
 4-isalpha.c: Checks if a character is an alphabetic letter.
+
 4-strpbrk.c: Searches a string for any of a set of bytes.
+
 5-strstr.c: Locates a substring.
+
 6-abs.c: Computes the absolute value of an integer.
+
 9-strcpy.c: Copies the string pointed to by src to dest.
+
 create_static_lib.sh: A script that creates a static library named liball.a from all the .c files in the current directory.
+
 liball.a: The static library containing the compiled object files from the .c files.
+
 main.h: A header file containing the function prototypes used in these programs.
+
 _putchar.c: A file with the function _putchar that writes a character c to stdout.
