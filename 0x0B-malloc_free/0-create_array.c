@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /**
- ** create_array - Function that creates an array of chars, 
- **and initializes it with a specific char.
+ ** create_array - Function that creates an array of chars,
+ ** and initializes it with a specific char.
  ** @size: the size of the string
  ** @c: the first character of the string
  **
