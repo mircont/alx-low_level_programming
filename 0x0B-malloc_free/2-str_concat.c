@@ -1,51 +1,50 @@
-#include "main.h"
 #include <stdlib.h>
-#include <stdio.h>
 
 /**
- *  * str_concat - Function that concatenates two strings.
+ *  * str_concat - a function that concatenates two strings.
  *   *
- *    * @s1: the first string
- *     * @s2: the second string
+ *    * @s1: input to string 1
+ *     * @s2: input to string 2
  *      *
- *       * Return: char pointer, pointer to the new string or null if failed
- *        */
+ *       * Return: NULL on faliure
+ *       */
 
 char *str_concat(char *s1, char *s2)
 {
-		char *array;
-			unsigned int size, i, s1_size = 0, s2_size = 0;
+		int a = 0, b = 0;
+			int i, j;
+				char *s;
 
-				if (s1 == NULL)
-							s1 = "";
+					if (s1 == NULL)
+								s1 = "";
+						if (s2 == NULL)
+									s2 = "";
 
-					if (s2 == NULL)
-								s2 = "";
+							/*find length of str1 & str2*/
+							while (s1[a] != '\0')
+										a++;
+								while (s2[b] != '\0')
+											b++;
 
-						for (i = 0; s1[s1_size] != '\0'; s1_size++)
-									continue;
+									/*+1 for our end of string character*/
+									s = malloc((a * sizeof(char)) + ((b + 1) * sizeof(char)));
 
-							for (; s2[s2_size] != '\0'; s2_size++)
-										continue;
-
-								size = s1_size + s2_size;
-
-									array = malloc(sizeof(char) * size + 1); /* +1 for the null char  */
-
-										if (!array)
+										if (s == NULL)
 													return (NULL);
 
-											for (i = 0; i < size; i++)
-													{
-																if (i < s1_size)
-																			{
-																							array[i] = s1[i];
-																									}
-																		else
-																						array[i] = s2[i - s1_size];
-																			}
+											/*add the first string to array s*/
+											for (i = 0; s1[i] != '\0'; i++)
+														s[i] = s1[i];
+												/*add the second string to array s*/
+												for (j = 0; s2[j] != '\0'; j++)
+														{
+																	s[i] = s2[j];
+																			i++;
+																				}
 
-												array[size] = '\0';
-													return (array);
+													/*null terminate our new string*/
+													s[i] = '\0';
+
+														return (s);
 }
 
