@@ -3,13 +3,13 @@
 #include <stdio.h>
 
 /**
- * str_concat - Function that concatenates two strings.
- *
- * @s1: the first string
- * @s2: the second string
- * 
- * Return: char pointer, pointer to the new string or null if failed
- */
+ *  * str_concat - Function that concatenates two strings.
+ *   *
+ *    * @s1: the first string
+ *     * @s2: the second string
+ *      *
+ *       * Return: char pointer, pointer to the new string or null if failed
+ *        */
 
 char *str_concat(char *s1, char *s2)
 {
