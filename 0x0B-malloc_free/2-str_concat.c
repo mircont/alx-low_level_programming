@@ -3,13 +3,13 @@
 #include <stdio.h>
 
 /**
- *  * str_concat - Function that concatenates two strings.
- *   *
- *    * @s1: the first string
- *     * @s2: the second string
- *      *
- *       * Return: char pointer, pointer to the new string or null if failed
- *        */
+ * str_concat - Function that concatenates two strings.
+ *
+ * @s1: the first string
+ * @s2: the second string
+ *
+ * Return: char pointer, pointer to the new string or null if failed
+ **/
 
 char *str_concat(char *s1, char *s2)
 {
@@ -30,7 +30,7 @@ char *str_concat(char *s1, char *s2)
 	
 	size = s1_size + s2_size;
 
-	array = malloc(sizeof(char) * size + 1); /* +1 for the null char  */
+	array = malloc(sizeof(char) * size + 1); /* +1 for the null char */
 
 	if (!array)
 		return (NULL);
