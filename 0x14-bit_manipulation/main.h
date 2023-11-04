@@ -1,12 +1,10 @@
-#ifndef MAIN_H /*MAIN_H*/
-#define MAIN_H /*MAIN_H*/
-
-#include <stddef.h>
+#ifndef BITMAN_H
+#define BITMAN_H
 #include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 
-#ifdef DEBUG /*prints debug statements*/
-#endif
-
+int _putchar(char c);
 unsigned int binary_to_uint(const char *b);
 
-#endif /*MAIN_H*/
+#endif /* BITMAN_H */
